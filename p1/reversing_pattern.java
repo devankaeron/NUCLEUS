@@ -9,6 +9,7 @@ public class pattern12 {
 Scanner scn=new Scanner(System.in);
 int n=scn.nextInt();
 int t=1;
+
 for(int i=1;i<=n;i++) {
 	int k=i*(i+1)/2;
 	for(int j=0;j<i;j++) {
@@ -27,3 +28,4 @@ System.out.println();
 
 }
 }}
+//end of code
