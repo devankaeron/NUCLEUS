@@ -1,0 +1,1 @@
+scanner.hasnext function example
