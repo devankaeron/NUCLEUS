@@ -1,0 +1,1 @@
+there are some of the programs written which gives the application of linkedlist on normal programs
